@@ -11,8 +11,8 @@
 ### 📱 Devices
 [![iPhone 8 Plus](https://img.shields.io/badge/iPhone%208%20Plus-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP768)
 [![iPhone 14](https://img.shields.io/badge/iPhone%2014-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/iphone-14/specs/)
-[![Redmi K30 Pro Zoom Edition](https://img.shields.io/badge/Redmi%20K30%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redmik30prozoom))
-[![Dell Inspiron 15 Gaming 5577](https://img.shields.io/badge/Dell%203437-00BBFF?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=00BBFF)](https://www.dell.com/support/home/zh-cn/product-support/product/inspiron-15-5577-gaming-laptop/overview)
+[![Redmi K30 Pro Zoom Edition](https://img.shields.io/badge/Redmi%20K30%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redmik30prozoom)
+[![Dell Inspiron 15 Gaming 5577](https://img.shields.io/badge/Dell%20Inspiron%2015%20Gaming%205577-00BBFF?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=00BBFF)](https://www.dell.com/support/home/zh-cn/product-support/product/inspiron-15-5577-gaming-laptop/overview)
 
 ### 📫 Contact me
 [![Telegram](https://img.shields.io/badge/%40W-Ripe-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/in_future123)
